@@ -1,2 +1,0 @@
-API_KEY=YourAPIKey132123123
-Password=test123
